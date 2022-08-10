@@ -29,7 +29,7 @@
 - 🎓 I am a Systems Engineer who love Technology! 
 - 🏃‍♂️ I am passionate about DevOps, Cloud and Infrastructure
 - 💬 Ask me about anything, I will be happy to help
-- ✨ Come see my [Projects!](https://dev.azure.com/AndrewSeif/DevOps%20CI-CD-Learning)
+- ☕️ Come see my [Projects!](https://dev.azure.com/AndrewSeif/DevOps%20CI-CD-Learning)
 
 
 <br />
