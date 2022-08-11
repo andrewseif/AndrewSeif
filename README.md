@@ -26,15 +26,15 @@
 
 # <img src="https://media.giphy.com/media/lPLak7Tmf194l22kzb/giphy.gif" width="50px" draggable="false" /> About Me
 
-- 🎓 I am a Systems Engineer who love Technology! 
-- 🏃‍♂️ I am passionate about DevOps, Cloud and Infrastructure
-- 💬 Ask me about anything, I will be happy to help
-- ☕️ Come see my [Projects!](https://dev.azure.com/AndrewSeif/DevOps%20CI-CD-Learning)
-
+- 🎓 I am a Systems Engineer who love Technology and is shifting to DevOps! 
+- 🏃‍♂️ I am passionate about DevOps, Cloud and Infrastructure.
+- 💬 Ask me about anything, I will be happy to help.
+- ☕️ Come see my CI/CD [Projects on Azure DevOps!](https://dev.azure.com/AndrewSeif/DevOps%20CI-CD-Learning)
+- 🌱 Check out my RoleIQ on Pluralsight for Azure DevOps Engineer Role!
 
 <br />
 
-# 🤹🏼 My Skills
+#⚡ My Skills
 
 <div align="center">
 
