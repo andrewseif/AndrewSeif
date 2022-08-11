@@ -30,11 +30,19 @@
 - 🏃‍♂️ I am passionate about DevOps, Cloud and Infrastructure.
 - 💬 Ask me about anything, I will be happy to help.
 - ☕️ Come see my CI/CD [Projects on Azure DevOps!](https://dev.azure.com/AndrewSeif/DevOps%20CI-CD-Learning)
-- 🌱 Check out my RoleIQ on Pluralsight for Azure DevOps Engineer Role!
+- 🌱 Check out my [RoleIQ](https://raw.githubusercontent.com/AndrewSeif/AndrewSeif/main/Level%202.PNG) on Pluralsight for Azure DevOps Engineer Role!
 
 <br />
+<br />
+<div align="center">
+<img src="https://raw.githubusercontent.com/AndrewSeif/AndrewSeif/main/Level%2021.PNG" />
+</div>
 
-#⚡ My Skills
+<br />
+<br />
+<br />
+
+# ⚡ My Skills
 
 <div align="center">
 
