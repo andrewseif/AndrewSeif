@@ -3,8 +3,8 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 </div>
-<br />
-<br />
+
+
 # Hi there <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />, I'm [Andrew!](https://www.linkedin.com/in/andrew-seif/) <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40px" draggable="false" /> 
 
 **📫 How to reach me: ...**
