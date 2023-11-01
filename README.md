@@ -5,7 +5,7 @@
 </div>
 
 
-# Hi there <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />, I'm [Andrew!](https://www.linkedin.com/in/andrew-seif/) <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40px" draggable="false" /> 
+# Hi <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />, I'm [Andrew!](https://www.linkedin.com/in/andrew-seif/) <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40px" draggable="false" /> 
 
 **📫 How to reach me: ...**
 
@@ -27,6 +27,7 @@
 
 # <img src="https://media.giphy.com/media/lPLak7Tmf194l22kzb/giphy.gif" width="50px" draggable="false" /> About Me
 
+- ⚡ OMG your profile is broken, yah i know, maybe you can fix it? D:
 - 🎓 I love Systems, Infrastructure and Technology! 
 - 🏃‍♂️ I am passionate about DevOps, Hybrid-Cloud and Platform Engineering!
 - 💬 Ask me about anything, I will be happy to help.
